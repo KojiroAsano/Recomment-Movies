@@ -5,9 +5,9 @@
 
 ## Description:
   This is assignment from ***Professional Certificate in Coding: Full Stack Development with MERN*** Week15.</br>
-  This program consists of javascript, html, and css.
-  This program is Todo list. If you are done with your task and push "Done", then window asks if you want to remove the task from Todo list.
-
+  This program consists of jsx, html, and css.
+  This program is to show the recent popular movies.
+  
 ## Installation:
   1. Downloads each file into one file. <br>
     1. **index.html** <br>
@@ -29,8 +29,8 @@
 
   
 ## Usage:
-**[Live app](https://kojiroasano.github.io/ToDo-List-Week14-/)**
-  <p>If successfully installed and run on the Web browser, the Todo list shows up. If you could not deal with daily work, try my todo list!!</p>
+**[Live app](https://kojiroasano.github.io/Fetch-And-Render-Data-Coding-Challenge-Week15-/)**
+  <p>If successfully installed and run on the Web browser, the recommend movies shows up!! Find out your favarite movies!!</p>
   
 ## Support:
   If any question, message me via **[my twitter](https://twitter.com/Kojiro38895598)**.
