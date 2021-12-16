@@ -1,4 +1,4 @@
-# Fetch-And-Render-Data-Coding-Challenge-Week15-
+# Recomment-Movies
 <div>
 <img src="fetchAndRender.png" width='500'/>
 </div>
@@ -39,7 +39,7 @@
   I want to sophisticate styling.
   
 ## License information: 
- If you use the part of this code in your program and show it to public, please include the name of ***MIT***.
+ If you use the part of this code in your program and show it to public, please include the name of ***MIT***.</br>
  API retrives from **[here](https://developers.themoviedb.org/4/getting-started/authorization)**
  
  
