@@ -29,7 +29,7 @@
 
   
 ## Usage:
-**[Live app](https://kojiroasano.github.io/Fetch-And-Render-Data-Coding-Challenge-Week15-/)**
+**[Live app](https://kojiroasano.github.io/Recomment-Movies/)**
   <p>If successfully installed and run on the Web browser, the recommend movies shows up!! Find out your favarite movies!!</p>
   
 ## Support:
