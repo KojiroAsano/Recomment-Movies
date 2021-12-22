@@ -94,7 +94,7 @@ function App() {
   const { Fragment, useState, useEffect, useReducer } = React;
   const [query, setQuery] = useState("");
   const [currentPage, setCurrentPage] = useState(1);
-  const pageSize = 10;
+  const pageSize = 5;
   const [{ data, isLoading, isError }, doFetch] = useDataApi(
     "https://api.themoviedb.org/3/discover/movie?api_key=855f2360b3da222c6b4bfd3628cdac2c&language=en-US&sort_by=popularity.desc&include_adult=false&include_video=false&page=1&with_watch_monetization_types=flatrate",
     {
