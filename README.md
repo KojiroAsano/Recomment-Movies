@@ -1,6 +1,7 @@
 # Recomment-Movies
 <div>
-<img src="fetchAndRender1.png" width='500'/>
+  <img src="fetchAndRender1.png" width='400'/>
+  <img src="fetchAndRender2.png" width='400'/>
 </div>
 
 ## Description:
