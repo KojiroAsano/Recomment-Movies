@@ -5,7 +5,6 @@
 </div>
 
 ## Description:
-  This is assignment from ***Professional Certificate in Coding: Full Stack Development with MERN*** Week15.</br>
   This program consists of jsx, html, and css.
   This program is to show the recent popular movies.
   
